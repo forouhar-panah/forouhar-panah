@@ -1,4 +1,4 @@
-# forouhar-panah
+# :wave:Hi i'm Forouhar
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forouhar-panah&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
